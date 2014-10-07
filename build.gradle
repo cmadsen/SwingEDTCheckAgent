@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    compile 'org.ow2.asm:asm:4.0'
+    compile 'org.ow2.asm:asm:5.0.3'
 }
 
 jar {
